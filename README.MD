@@ -28,7 +28,7 @@ Este es un **Cloud Function** desarrollado en **Node.js** que actúa como un **t
 
 ### 2️⃣ Clonar el repositorio
 ```sh
-git clone <https://github.com/fabianpineda81/Trigger-Firestore-Traslate>
+git clone https://github.com/fabianpineda81/Trigger-Firestore-Traslate
 
 ```
 
